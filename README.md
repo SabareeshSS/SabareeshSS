@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
-![giphy](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
+![giphy](https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif)
 
 ###
 
@@ -48,5 +48,5 @@
 ###
 
 <p> 
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=elifbilgep&theme=blueberry_duo">
+<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=SabareeshSS&theme=blueberry_duo">
 </p>
